@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab03v1</string>
+    <string name="InfoStudent">InfoStudent</string>
+    <string name="name">name</string>
+    <string name="avg">avg</string>
+    <string name="nazwiskoImie">NazwiskoIMie</string>
+    <string name="img_of_current_student">current</string>
+    <string name="osoba_def">osoba</string>
+</resources>
